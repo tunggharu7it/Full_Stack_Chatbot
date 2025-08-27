@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic-settings
+python-multipart
+openai
+python-dotenv
+langchain
+tiktoken
+faiss-cpu
+pypdf
+docx2txt
