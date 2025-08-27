@@ -66,8 +66,8 @@ The page will reload if you make edits. You will also see any lint errors in the
 
 Click on the image below to see the demo 👇
 
-[![Click here to see the demo](<img width="1327" height="694" alt="image" src="https://github.com/user-attachments/assets/25097e0a-7797-4f26-b1ce-264e36c3d6be" />
-)](https://youtu.be/LM6tR4GBXMQ)
+[![Click here to see the demo](https://github.com/user-attachments/assets/25097e0a-7797-4f26-b1ce-264e36c3d6be)](https://youtu.be/LM6tR4GBXMQ)
+
 
 ## TODO
 
